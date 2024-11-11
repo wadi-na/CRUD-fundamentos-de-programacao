@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "nome": "agua",
+        "quantidade": 1,
+        "valor": 1.5
+    },
+    {
+        "id": "123",
+        "nome": "sal",
+        "quantidade": 1,
+        "valor": 5.0
+    },
+    {
+        "id": "400",
+        "nome": "videogame",
+        "quantidade": 50,
+        "valor": 10.0
+    },
+    {
+        "id": "FF0253",
+        "nome": "bolsa",
+        "quantidade": 0,
+        "valor": 0.0
+    },
+    {
+        "id": "FF02B3",
+        "nome": "anel",
+        "quantidade": 1,
+        "valor": 10.0
+    }
+]
